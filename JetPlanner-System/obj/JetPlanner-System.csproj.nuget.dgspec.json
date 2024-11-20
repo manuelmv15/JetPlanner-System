@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Carlo\\source\\repos\\JetPlanner-System\\JetPlanner-System.csproj": {}
+    "C:\\Users\\Carlo\\source\\repos\\Esturcutra de datos\\Proyecto\\JetPlanner-System\\JetPlanner-System.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Carlo\\source\\repos\\JetPlanner-System\\JetPlanner-System.csproj": {
+    "C:\\Users\\Carlo\\source\\repos\\Esturcutra de datos\\Proyecto\\JetPlanner-System\\JetPlanner-System.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Carlo\\source\\repos\\JetPlanner-System\\JetPlanner-System.csproj",
+        "projectUniqueName": "C:\\Users\\Carlo\\source\\repos\\Esturcutra de datos\\Proyecto\\JetPlanner-System\\JetPlanner-System.csproj",
         "projectName": "JetPlanner-System",
-        "projectPath": "C:\\Users\\Carlo\\source\\repos\\JetPlanner-System\\JetPlanner-System.csproj",
+        "projectPath": "C:\\Users\\Carlo\\source\\repos\\Esturcutra de datos\\Proyecto\\JetPlanner-System\\JetPlanner-System.csproj",
         "packagesPath": "C:\\Users\\Carlo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Carlo\\source\\repos\\JetPlanner-System\\obj\\",
+        "outputPath": "C:\\Users\\Carlo\\source\\repos\\Esturcutra de datos\\Proyecto\\JetPlanner-System\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

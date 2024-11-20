@@ -48,7 +48,7 @@ CREATE TABLE tblAerolineas (
 GO
 
 -- Tabla Vuelos Disponibles
-CREATE TABLE tblVuelosDisponibles (
+CREATE TABLE tblVuelosDisponibles 
     idVuelo INT IDENTITY(1,1) PRIMARY KEY,
     numeroVuelo NVARCHAR(20) NOT NULL, -- Número único del vuelo
     idAerolinea INT NOT NULL, -- Relación con la aerolínea
@@ -61,7 +61,7 @@ CREATE TABLE tblVuelosDisponibles (
     asientosDisponibles INT NOT NULL, -- Asientos disponibles para venta
     precioBase DECIMAL(10,2) NOT NULL, -- Precio base por boleto
     idTipoVuelo INT NOT NULL, -- Relación con el tipo de vuelo
-    estado NVARCHAR(20) DEFAULT 'programado' CHECK (estado IN ('programado', 'Volando', 'finalizado', 'cancelado', 'demorado')),
+    estado NVARCHAR(20) DEFAULT 'programado' CHECK (estado IN ('programado', 'Volando', 'finalizado', 'cancelado', 'demorado','ocultado')),
     CONSTRAINT fk_aerolinea FOREIGN KEY (idAerolinea) REFERENCES tblAerolineas (idAerolinea) ON DELETE CASCADE,
     CONSTRAINT fk_tipoVuelo FOREIGN KEY (idTipoVuelo) REFERENCES tblTiposVuelo (idTipoVuelo) ON DELETE CASCADE
 );

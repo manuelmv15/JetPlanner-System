@@ -1,7 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Carlo\\source\\repos\\JetPlanner-System\\",
-  "Documents": [],
+  "WorkspaceRootPath": "C:\\Users\\Carlo\\source\\repos\\Esturcutra de datos\\Proyecto\\JetPlanner-System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{55D8FC28-7699-4793-B50F-A4A532BD3095}|JetPlanner-System.csproj|c:\\users\\carlo\\source\\repos\\esturcutra de datos\\proyecto\\jetplanner-system\\views\\administracion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55D8FC28-7699-4793-B50F-A4A532BD3095}|JetPlanner-System.csproj|solutionrelative:views\\administracion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55D8FC28-7699-4793-B50F-A4A532BD3095}|JetPlanner-System.csproj|c:\\users\\carlo\\source\\repos\\esturcutra de datos\\proyecto\\jetplanner-system\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55D8FC28-7699-4793-B50F-A4A532BD3095}|JetPlanner-System.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,8 +18,34 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carlo\\source\\repos\\Esturcutra de datos\\Proyecto\\JetPlanner-System\\Views\\Administracion\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Administracion\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Carlo\\source\\repos\\Esturcutra de datos\\Proyecto\\JetPlanner-System\\Views\\Administracion\\Index.cshtml",
+              "RelativeToolTip": "Views\\Administracion\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T02:54:14.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Carlo\\source\\repos\\Esturcutra de datos\\Proyecto\\JetPlanner-System\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Carlo\\source\\repos\\Esturcutra de datos\\Proyecto\\JetPlanner-System\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-20T02:52:10.712Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
